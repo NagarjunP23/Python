@@ -1,5 +1,4 @@
-#program for stopwatch
-
+#program for stopwatch/Timer
 
 import os
 import time

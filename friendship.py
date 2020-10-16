@@ -1,4 +1,7 @@
+#Friendship calculator
+
 name=input("Enter your name ").lower()
+
 f_name=input("Enter Friend's name ").lower()
 n=name+f_name
 c=0
